@@ -1,2 +1,2 @@
 # Chain-Wire
-messaging, blockchain,
+messaging, blockchain
