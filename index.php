@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Chain-Wire Starter Application</title>
+	<title>Black Ops Messaging</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="stylesheet" href="style.css" />
 </head>
@@ -11,7 +11,7 @@
 			<td style='width: 30%;'><img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "ChainWire"; ?>
+				<h1 id = "message"><?php echo "Black Ops Messaging"; ?>
 </h1>
 				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>. Get started by reading our <a
 				href="https://www.ng.bluemix.net/docs/#runtimes/php/index.html">documentation</a>
