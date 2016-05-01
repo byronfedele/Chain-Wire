@@ -8,13 +8,15 @@
 <body>
 	<table>
 		<tr>
-			<td style='width: 30%;'><img class = 'newappIcon' src='images/newapp-icon.png'>
+			<td style='width: 30%;’><img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
 </h1>
-				<a href=“register.html”>Register User</a>
-				<a href=“write.html”>Write Payload</a>
-				<a href=“read.html”>Read Payload</a>
+				<a href=register.html>Register User</a><br>
+				<a href=write.html>Write Payload</a><br>
+				<a href=read.html>Read Payload</a>
+<br>
+<a href=delete.html> Delete User</a>
 				
 
 			</td>
